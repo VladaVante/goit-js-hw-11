@@ -1,5 +1,5 @@
 
-const API_KEY = '46203221-a91cc8cf493e831e00cc5b047';
+const API_KEY = '46982769-551c832606b75e5005f83cf77';
 
 const BASE_URL = 'https://pixabay.com/api/';
         
