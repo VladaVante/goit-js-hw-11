@@ -24,7 +24,7 @@ const iziWarning = () => iziToast.show({
     message: "Input is empty!",
     position: "topRight",
     icon: 'ico-warning',
-    backgroundColor: "orangered",
+    backgroundColor: "purple",
     messageSize: "16",
     messageColor: "#fff",
     theme: "dark",
